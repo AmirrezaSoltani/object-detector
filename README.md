@@ -1,4 +1,4 @@
-# YOLO Object Detection and Tracking with Kalman Filter
+# YOLO Object Detection and Tracking 
 
 ## 📌 Overview
 This project implements **real-time object detection and tracking** using the **YOLOv8 model** . The program processes a video file, detects objects, tracks them across frames, and generates an output video with annotated object IDs.
