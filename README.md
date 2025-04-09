@@ -71,4 +71,4 @@ Feel free to **fork this repo** and submit a pull request if you'd like to impro
 
 ---
 
-🚀 **Now, you can easily detect and track objects across video frames!** Let me know if you need any modifications. 😊
+🚀 **Now, you can easily detect and track objects across video frames!**😊
